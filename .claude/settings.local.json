@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find:*)",
+      "Bash(git -C c:/Users/praveen/expts/localrag log --oneline)",
+      "Bash(npm create:*)",
+      "Bash(npm install:*)",
+      "Bash(npx shadcn@latest init:*)",
+      "Bash(npx shadcn@latest add button input card table badge select tabs dialog sheet textarea scroll-area slider separator alert avatar toggle-group progress tooltip switch label sonner -y)",
+      "Bash(npx tsc:*)",
+      "Bash(npm run build:*)",
+      "Bash(docker exec:*)",
+      "Bash(netstat:*)",
+      "Bash(curl:*)"
+    ]
+  }
+}
